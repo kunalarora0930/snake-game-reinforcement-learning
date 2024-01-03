@@ -1,7 +1,5 @@
-# AI Snake Game
+# Snake Game with Reinforcement Learning
 ## Teach AI to play Snake Game using deep Q-Learning
-
-## Overview
 
 A Snake game-playing agent implemented using a Deep Q-Network (DQN) reinforcement learning approach. The agent learns to play the Snake game by training on the game environment and updating its Q-network.
 
